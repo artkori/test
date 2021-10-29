@@ -15,7 +15,7 @@ int main()
         cout << setw(10) << x << setw(10) << setprecision(3) << y << endl;
         x += h;
     }
-    //007
+    //0098
     cout << "Do....While" << endl;
     x = min;
     cout << "\tx" << "\t(x)" << endl;
