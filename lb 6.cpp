@@ -19,10 +19,10 @@ int main()
     cout << "Do....While" << endl;
     x = min;
     cout << "\tx" << "\t(x)" << endl;
-    do
+    /*do
     {
         y = pow((x), 1 / 2) + 3 * x + x * x;
         cout << setw(10) << x << setw(10) << setprecision(3) << y << endl;
         x += h;
-    } while (x <= max + h / 2);
+    } while (x <= max + h / 2);*/
 }
